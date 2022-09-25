@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Website And Transport App**
+- 🔭 I’m currently working on **A Portfolio Website And Transport App**
 
 - 🌱 I’m currently learning **React Native And Tailwind CSS**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pmambambo2@gmail.com**
 
-- ⚡ Fun fact **I love dancing videos and dance but would never be able to dance to save my life**
+- ⚡ Fun fact **I love dancing videos and dancing in the shower but would never be able to dance to save my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
